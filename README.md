@@ -162,3 +162,8 @@ This project is licensed under the AGPL 3.0 License — see [LICENSE.md](./LICEN
 [⬆ Back to top](#top)
 
 </div>
+
+
+## Acknowledgments
+Special thanks to Himanshu from Makrāna for documentation improvements! 🙌
+
